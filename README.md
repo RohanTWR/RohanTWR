@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👨‍💻 All of my projects are available at [rohantwr.github.io](rohantwr.github.io)
+- 👨‍💻 All of my projects are available on my [website](https://rohantwr.github.io/).
 
 - 📫 Contact me at **rohantiwaribits@gmail.com**
 
