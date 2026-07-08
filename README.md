@@ -62,11 +62,8 @@
 
 ### Areas of Expertise
 
-- 🔐 Identity & Access Management (IAM)
-- 🛡️ Role-Based Access Control (RBAC)
 - 🌐 REST APIs
 - ☸️ Kubernetes
 - 🐳 Containers & Docker
 - ⚙️ Distributed Systems
-- 📦 Helm
 - 📈 Observability & Monitoring
